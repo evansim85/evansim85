@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @evansim85
+- 👋 Hi, I’m Evan. Nice to meet you guys.
 - 👀 I’m interested in data science programming
 - 🌱 I’m currently learning data analytics & visualization and doing a project that is anlayse on getting heart disease. Please feel free to comment and share with me how to improve from there.
 - 📫 How to reach me through my email evansim@gmail.com
