@@ -6,5 +6,4 @@
 <!---
 evansim85/evansim85 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
-[Project DS102104 Evan Sim Yih Shan.pdf](https://github.com/evansim85/evansim85/files/9585742/Project.DS102104.Evan.Sim.Yih.Shan.pdf)
+
